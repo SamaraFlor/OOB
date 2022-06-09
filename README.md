@@ -1,4 +1,4 @@
-# OOB
+# OOP
 Orientação a Objeto JavaScript Bootcamp Santander
 
 
